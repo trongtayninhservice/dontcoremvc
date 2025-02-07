@@ -1,113 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\",
+  "WorkspaceRootPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\myapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\myapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\advancedeship\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|solutionrelative:advancedeship\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\advancedeship\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|solutionrelative:advancedeship\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\dotnetcoremvc\\dontcoremvc\\connectdb2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\myapp.api\\myapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{05455BC3-430D-4BFB-A004-10BDCA3E36E5}|MyApp.Api\\MyApp.Api.csproj|solutionrelative:myapp.api\\myapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\consoleapptest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\consoleapptest\\consoleapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\consoleapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\advancedeship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29403F0E-5444-4318-BC2C-D1DECC73A6D3}|AdvancedEship\\AdvancedEship.csproj|solutionrelative:advancedeship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\dotnetcoremvc\\dontcoremvc\\connectdb2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|f:\\users\\dell\\source\\repos\\dotnetcoremvc\\dontcoremvc\\consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6F8A3A-35AB-4CD8-AE23-41E26D073A60}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\dotnetcoremvc\\dontcoremvc\\connectdb2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\advancedeship\\connectdb2\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|f:\\users\\dell\\source\\repos\\dotnetcoremvc\\dontcoremvc\\connectdb2\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C64AA8-C98F-48C9-80CF-4620792424D2}|ConnectDb2\\ConnectDb2.csproj|solutionrelative:connectdb2\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,353 +38,80 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyApp.Api",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.csproj",
-              "RelativeDocumentMoniker": "MyApp.Api\\MyApp.Api.csproj",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.csproj",
-              "RelativeToolTip": "MyApp.Api\\MyApp.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T09:52:22.343Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConsoleAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest\\Program.cs",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConsoleAppTest\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTest\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:31:04.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "MyApp.Api\\Program.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Program.cs",
-              "RelativeToolTip": "MyApp.Api\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "20250207042942_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs",
+              "RelativeToolTip": "ConnectDb2\\Migrations\\20250207042942_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T07:19:03.176Z",
+              "WhenOpened": "2025-02-07T04:29:42.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MyApp.Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MyApp.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T07:52:08.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "MyApp.Api\\appsettings.json",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\appsettings.json",
-              "RelativeToolTip": "MyApp.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnectDb2\\appsettings.json",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\appsettings.json",
+              "RelativeToolTip": "ConnectDb2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T07:19:28.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserAccountsController.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\Controllers\\UserAccountsController.cs",
-              "RelativeDocumentMoniker": "AdvancedEship\\Controllers\\UserAccountsController.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\Controllers\\UserAccountsController.cs",
-              "RelativeToolTip": "AdvancedEship\\Controllers\\UserAccountsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T09:40:45.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MyApp.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MyApp.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T06:52:08.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AdvancedEship\\Controllers\\ProductsController.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AdvancedEship\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:43:25.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Repositories\\ProductRepository.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ConnectDb2\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:56:24.234Z",
+              "WhenOpened": "2025-02-07T04:10:44.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppTest\\Program.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\Program.cs",
-              "RelativeToolTip": "ConsoleAppTest\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwBkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:28:37.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MyApp.Api\\WeatherForecast.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\WeatherForecast.cs",
-              "RelativeToolTip": "MyApp.Api\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T07:19:16.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyApp.Api\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyApp.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T07:19:37.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyApp.Api.http",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.http",
-              "RelativeDocumentMoniker": "MyApp.Api\\MyApp.Api.http",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.http",
-              "RelativeToolTip": "MyApp.Api\\MyApp.Api.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-06T07:18:48.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\appsettings.json",
-              "RelativeDocumentMoniker": "ConnectDb2\\appsettings.json",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\appsettings.json",
-              "RelativeToolTip": "ConnectDb2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T02:50:54.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\appsettings.json",
-              "RelativeDocumentMoniker": "ConsoleAppTest\\appsettings.json",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\appsettings.json",
-              "RelativeToolTip": "ConsoleAppTest\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T03:58:35.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ConsoleAppTest",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\ConsoleAppTest.csproj",
-              "RelativeDocumentMoniker": "ConsoleAppTest\\ConsoleAppTest.csproj",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\ConsoleAppTest.csproj",
-              "RelativeToolTip": "ConsoleAppTest\\ConsoleAppTest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T03:42:56.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ConnectDb2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "Title": "Color.cs",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "ConnectDb2\\Models\\Color.cs",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Models\\Color.cs",
+              "RelativeToolTip": "ConnectDb2\\Models\\Color.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:47:11.025Z",
+              "WhenOpened": "2025-02-07T04:10:35.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250206024702_InitialCreate.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs",
-              "RelativeToolTip": "ConnectDb2\\Migrations\\20250206024702_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:47:02.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserAccount.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\UserAccount.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\UserAccount.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\UserAccount.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\UserAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:56.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Size.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Size.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\Size.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Size.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\Size.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:53.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\ShoppingCart.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:49.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\Product.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Product.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:45.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\appsettings.json",
-              "RelativeDocumentMoniker": "AdvancedEship\\appsettings.json",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\appsettings.json",
-              "RelativeToolTip": "AdvancedEship\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T02:34:30.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\LoginViewModel.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:42.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\ErrorViewModel.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:38.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Category.cs",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ConnectDb2\\Models\\Category.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Category.cs",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\Models\\Category.cs",
               "RelativeToolTip": "ConnectDb2\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:29.604Z",
+              "WhenOpened": "2025-02-07T04:10:26.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\AppDbContext.cs",
+              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ConnectDb2\\AppDbContext.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\AppDbContext.cs",
+              "ToolTip": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\AppDbContext.cs",
               "RelativeToolTip": "ConnectDb2\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T02:39:28.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Color.cs",
-              "DocumentMoniker": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Color.cs",
-              "RelativeDocumentMoniker": "ConnectDb2\\Models\\Color.cs",
-              "ToolTip": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\Models\\Color.cs",
-              "RelativeToolTip": "ConnectDb2\\Models\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:41:35.305Z",
               "EditorCaption": ""
             }
           ]

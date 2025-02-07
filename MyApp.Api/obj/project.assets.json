@@ -3322,11 +3322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.csproj",
+      "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\MyApp.Api\\MyApp.Api.csproj",
       "projectName": "MyApp.Api",
-      "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\MyApp.Api.csproj",
+      "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\MyApp.Api\\MyApp.Api.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\MyApp.Api\\obj\\",
+      "outputPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\MyApp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3343,8 +3343,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj": {
-              "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj"
+            "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
+              "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj"
             }
           }
         }

@@ -3187,11 +3187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConsoleAppTest\\ConsoleAppTest.csproj",
       "projectName": "ConsoleAppTest",
-      "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConsoleAppTest\\ConsoleAppTest.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConsoleAppTest\\obj\\",
+      "outputPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConsoleAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3208,8 +3208,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj": {
-              "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj"
+            "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
+              "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj"
             }
           }
         }

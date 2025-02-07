@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\AdvancedEship.csproj": {}
+    "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj": {}
   },
   "projects": {
-    "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\AdvancedEship.csproj": {
+    "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\AdvancedEship.csproj",
+        "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
         "projectName": "AdvancedEship",
-        "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\AdvancedEship.csproj",
+        "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\AdvancedEship\\obj\\",
+        "outputPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj": {
-                "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj"
+              "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
+                "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj"
               }
             }
           }
@@ -69,7 +69,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -107,14 +107,14 @@
         }
       }
     },
-    "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj": {
+    "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj",
+        "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj",
         "projectName": "ConnectDb2",
-        "projectPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj",
+        "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\obj\\",
+        "outputPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

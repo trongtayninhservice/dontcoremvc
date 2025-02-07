@@ -17,135 +17,135 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvancedEship
 build_property.RootNamespace = AdvancedEship
-build_property.ProjectDir = F:\Users\DELL\source\repos\AdvancedEship\AdvancedEship\
+build_property.ProjectDir = F:\Users\DELL\source\repos\dotnetcoremvc\dontcoremvc\AdvancedEship\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Users\DELL\source\repos\AdvancedEship\AdvancedEship
+build_property.MSBuildProjectDirectory = F:\Users\DELL\source\repos\dotnetcoremvc\dontcoremvc\AdvancedEship
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Categories/Create.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Categories/Delete.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Categories/Details.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Categories/Edit.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Categories/Index.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Home/Index.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Home/Privacy.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Login/MyLogin.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Login/MyLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTXlMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/MyCart/ListCart.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/MyCart/ListCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlDYXJ0XExpc3RDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Products/Create.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Products/Delete.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Products/Details.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Products/Edit.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Products/Index.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/Components/Imagebar/Index.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/Components/Imagebar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW1hZ2ViYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/Components/JustArrived/Default.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/Components/JustArrived/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSnVzdEFycml2ZWRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/Components/Navbar/Default.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/Components/Navbar/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/Components/Trandy/Default.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/Components/Trandy/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVHJhbmR5XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/Error.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/_LoginPartial.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/UserAccounts/Create.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/UserAccounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/UserAccounts/Delete.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/UserAccounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/UserAccounts/Details.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/UserAccounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/UserAccounts/Edit.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/UserAccounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/UserAccounts/Index.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/UserAccounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY291bnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/_ViewImports.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/_ViewStart.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/_Layout.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8lm4xik0h4
 
-[F:/Users/DELL/source/repos/AdvancedEship/AdvancedEship/Views/Shared/_Product.cshtml]
+[F:/Users/DELL/source/repos/dotnetcoremvc/dontcoremvc/AdvancedEship/Views/Shared/_Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-06j1wwpncu

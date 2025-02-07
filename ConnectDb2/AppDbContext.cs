@@ -34,6 +34,7 @@ namespace ConnectDb2
                     .Build();
 
                 string connectionString = config.GetConnectionString("DefaultConnection");
+                Console.WriteLine(Directory.GetCurrentDirectory()+connectionString);
                 optionsBuilder.UseSqlServer(connectionString);
             }
         }

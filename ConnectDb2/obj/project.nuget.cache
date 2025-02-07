@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2K9DVKxfmGRQ1W12g0XORuBQjyybODBxL75NSvlfIdTlWg3gTRBzBeEXwYcCiGIkJeKTpFMx9eh4DuzLPmzadA==",
+  "dgSpecHash": "XJoMIVFJjdAdonsH111WHYYXab+A5bOunYzrCu7TSNNlL2GJN0K6vwba+hhto8qi6OgRNMeAZ/GfCnk7ipuEgA==",
   "success": true,
-  "projectFilePath": "F:\\Users\\DELL\\source\\repos\\AdvancedEship\\ConnectDb2\\ConnectDb2.csproj",
+  "projectFilePath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
