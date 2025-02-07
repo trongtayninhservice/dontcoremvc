@@ -1,0 +1,14 @@
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\bin\Debug\net8.0\ConnectDb2.deps.json
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\bin\Debug\net8.0\ConnectDb2.runtimeconfig.json
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\bin\Debug\net8.0\ConnectDb2.dll
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\bin\Debug\net8.0\ConnectDb2.pdb
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.csproj.AssemblyReference.cache
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.AssemblyInfoInputs.cache
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.AssemblyInfo.cs
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.csproj.CoreCompileInputs.cache
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.dll
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\refint\ConnectDb2.dll
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.pdb
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ConnectDb2.genruntimeconfig.cache
+F:\Users\DELL\source\repos\AdvancedEship\ConnectDb2\obj\Debug\net8.0\ref\ConnectDb2.dll
