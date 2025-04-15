@@ -8598,19 +8598,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
+      "projectUniqueName": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
       "projectName": "AdvancedEship",
-      "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
+      "projectPath": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\obj\\",
+      "outputPath": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8624,8 +8629,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
-              "projectPath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj"
+            "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj": {
+              "projectPath": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\ConnectDb2\\ConnectDb2.csproj"
             }
           }
         }
@@ -8639,7 +8644,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -8699,7 +8705,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

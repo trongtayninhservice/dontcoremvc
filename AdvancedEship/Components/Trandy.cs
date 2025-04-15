@@ -14,7 +14,13 @@ namespace AdvancedEship.Components
         }
         public IViewComponentResult Invoke()
         {
-            return View(_context.Products.Where(p=>p.IsTrandy==true).ToList());
+            var myData = _context.Products.Where(p => p.IsTrandy == true).ToList();
+           // var myData = _context.Products.ToList();
+            //show count in log
+            var count = myData.Count();
+            //log the count
+            Console.WriteLine($"Count of trendy productscc: {count}");
+            return View(model: myData);
         }
     }
 }

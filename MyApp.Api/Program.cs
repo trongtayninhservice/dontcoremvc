@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
 });
 // Đọc chuỗi kết nối từ appsettings.json
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(ConnectDb2.ConfigurationHelper.GetConnectionString()));
 
 // Cấu hình JWT Authentication
 builder.Services.AddAuthentication(options =>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1Blv18bX8ID2BUiOHYVab8p8Z1mNEdfHeA6rAGv1S0oBZOw2rUKAOxx7rliN06AxLiHegsgwKx2qckOkcbRtw==",
+  "dgSpecHash": "PFi5ID3MLOE=",
   "success": true,
-  "projectFilePath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
+  "projectFilePath": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\AdvancedEship\\AdvancedEship.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

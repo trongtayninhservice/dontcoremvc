@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AdvancedEship.Data;
 using AdvancedEship.Models;
+using ConnectDb2.Repositories;
+using ConnectDb2;
+using ConnectDb2.Models;
 using X.PagedList;
 using X.PagedList.Extensions;
 namespace AdvancedEship.Controllers
@@ -40,7 +43,7 @@ namespace AdvancedEship.Controllers
 
             if (cart == null)
             {
-                cart = new ShoppingCart
+                cart = new ConnectDb2.Models.ShoppingCart
                 {
                     ProductId = product.ProductId,
                     Quantity = 1,
@@ -65,7 +68,7 @@ namespace AdvancedEship.Controllers
             var cartGuid = HttpContext.Session.GetString("CartGuid");
             if (string.IsNullOrEmpty(cartGuid))
             {
-                return View("~/Views/MyCart/ListCart.cshtml", new StaticPagedList<ShoppingCart>(new List<ShoppingCart>(), 1, 2, 0));
+                return View("~/Views/MyCart/ListCart.cshtml", new StaticPagedList<ConnectDb2.Models.ShoppingCart>(new List<ConnectDb2.Models.ShoppingCart>(), 1, 2, 0));
             }
 
             var cartItems = await _context.ShoppingCarts

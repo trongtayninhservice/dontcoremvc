@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdsCQC7nd9FO/7wWOT+9Ol6VD36mEo9TkhE3GE8XhYGd8wn5NdQ5x+tDoL6jzhKF43dwPdOsmW21M6ZzI5qRnQ==",
+  "dgSpecHash": "7hit4LPOUtQ=",
   "success": true,
-  "projectFilePath": "F:\\Users\\DELL\\source\\repos\\dotnetcoremvc\\dontcoremvc\\MyApp.Api\\MyApp.Api.csproj",
+  "projectFilePath": "D:\\daitovn\\111Research\\dotnet\\dotnetcoremvc\\dontcoremvc\\MyApp.Api\\MyApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

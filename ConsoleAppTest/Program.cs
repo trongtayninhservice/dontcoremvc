@@ -9,16 +9,19 @@ using ConnectDb2;
 using ConnectDb2.Models;
 class Program
 {
+    // dotnet run
     static async Task Main(string[] args)
     {
         // Đọc cấu hình từ appsettings.json
-        var config = new ConfigurationBuilder()
-            .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-            .Build();
+        //var config = new ConfigurationBuilder()
+        //    .SetBasePath(Directory.GetCurrentDirectory())
+        //    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+        //    .Build();
 
-        string connectionString = config.GetConnectionString("DefaultConnection");
 
+        string connectionString = ConnectDb2.ConfigurationHelper.GetConnectionString();
+
+        Console.WriteLine(connectionString);
         // Cấu hình DbContext
         var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
         optionsBuilder.UseSqlServer(connectionString);

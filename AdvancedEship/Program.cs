@@ -1,6 +1,7 @@
 ﻿using AdvancedEship.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ConnectDb2;
 
 var builder = WebApplication.CreateBuilder(args);
 // Thêm các dịch vụ khác
@@ -16,7 +17,11 @@ builder.Services.AddSession(options =>
 
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+//var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+//var connectionString = ConfigurationHelper.GetConnectionString() ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+var connectionString = ConnectDb2.ConfigurationHelper.GetConnectionString();
+//console.WriteLine(connectionString);
+Console.WriteLine(Directory.GetCurrentDirectory() + connectionString);
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();

@@ -1,5 +1,8 @@
 ﻿using AdvancedEship.Data;
 using Microsoft.AspNetCore.Mvc;
+using ConnectDb2.Repositories;
+using ConnectDb2;
+using ConnectDb2.Models;
 namespace AdvancedEship.Components
 {
 
